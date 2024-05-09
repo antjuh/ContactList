@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.contactInfo:hover {
+  filter: drop-shadow(0 0 0 blue);
+}
+
+.listHeader {
+  font-size: 25px;
+}
+
+.titles {
+  font-weight: bolder;
+}
